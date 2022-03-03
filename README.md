@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **small to medium projects.**
 
-- 👨‍💻 All of my projects are available at [my github profile](my github profile)
+- 👨‍💻 All of my projects are available at [my github profile](https://github.com/AndreiZ0R)
 
 - 💬 Ask me about **C, C++, Python or sports:)**
 
