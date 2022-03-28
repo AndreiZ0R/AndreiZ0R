@@ -15,9 +15,9 @@
 
 - 👨‍💻 All of my projects are available at [my github profile](https://github.com/AndreiZ0R)
 
-- 💬 Ask me about **C, C++, Python or sports:)**
+- 💬 Ask me about **programming, cars, software or sports:)**
 
-- 📫 How to reach me **andreiborzagabriel@gmail.com**
+- 📫 How to reach me: **andreiborzagabriel@gmail.com**
 
 - ⚡ Fun fact: **Gold fishes have little to no memory at all, that's why they can live in a small bag with some water in it.**
 
