@@ -6,7 +6,7 @@
 
 <br><br>
 
-- 📚 Im studying Computer Scrience/Software Engineering at Technical University of Cluj-Napoca
+- 📚 Im studying Computer Scrience at Technical University of Cluj-Napoca, 2nd year
 
 - 🌱 I’m currently learning **spring and react.js.**
 
@@ -19,6 +19,8 @@
 - 💬 Ask me about **programming, cars, software or sports:)**
 
 - 📫 How to reach me: **andreiborzagabriel@gmail.com**
+
+- 🃏 My CV can be downloaded from [my LinkedIn profile](https://www.linkedin.com/in/andrei-gabriel-borza-dev/)
 
 - ⚡ Fun fact: **Gold fishes have little to no memory at all, that's why they can live in a small bag with some water in it.**
 
