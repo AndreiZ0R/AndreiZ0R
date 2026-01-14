@@ -5,7 +5,7 @@
 
 <br><br>
 
-- 📚 Im studying Computer Scrience at Technical University of Cluj-Napoca, 4th year TI
+- 📚 Im pursuing my Master's Degree in Software Engineering at Technical University of Cluj-Napoca, 1th year.
 
 - 🌱 I’m currently working with **spring boot and react.**
 
